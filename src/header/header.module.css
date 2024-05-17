@@ -1,0 +1,14 @@
+.nav{
+    display: flex;
+    justify-content: end;
+    color:rgb(29, 29, 29);
+    background-color: bisque;
+    font-size: 20px;
+    letter-spacing: 3px;
+    padding: 5px;
+    
+}
+.link{
+    margin-right: 10px;
+    text-decoration-line: underline;
+}
