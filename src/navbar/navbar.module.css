@@ -1,0 +1,18 @@
+.nav{
+    display: flex;
+    justify-content: end;
+    color:rgb(29, 29, 29);
+    background-color: rgb(243, 200, 148);
+    font-size: 20px;
+    letter-spacing: 3px;
+    
+}
+.link{
+    margin-right: 10px;
+    text-decoration-line: underline;
+}
+.link:hover{
+    color:brown;
+    text-shadow: 1px 1px 5px;
+    transition: 500ms;
+}
