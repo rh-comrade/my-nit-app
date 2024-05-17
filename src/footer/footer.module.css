@@ -1,0 +1,15 @@
+
+.footer{
+    background-color: bisque;
+    color: rgb(31, 31, 31);
+}
+.para{
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    width: 100%;
+    color:blue;
+    background-color: bisque;
+    text-align: center;
+    bottom: 0;
+}
