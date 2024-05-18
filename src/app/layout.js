@@ -1,5 +1,6 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
+import './animations.css'
 import 'bootstrap/dist/css/bootstrap.css';
 import { Navbar } from "@/navbar";
 import { Footer } from "@/footer";
