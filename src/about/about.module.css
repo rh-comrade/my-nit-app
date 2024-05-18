@@ -1,0 +1,8 @@
+.about{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(244, 240, 156);
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+}
