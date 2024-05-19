@@ -7,7 +7,8 @@ body{
   height: 100px;
   width: 100px;
   border-radius: 50%;
-  animation: home-left-text-animation ease-in-out 2s alternate-reverse infinite;
+  animation-name: bounce;
+  animation: home-left-text-animation ease-in-out 2s alternate infinite;
 }
 .container>div>.img{
   position: relative;

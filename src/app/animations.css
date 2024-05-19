@@ -13,6 +13,7 @@
     100%{
         top: 100px;
         border-radius: 48%;
+        box-shadow:  15px solid red;
         background-color: rgb(172, 172, 240);
     }
 }
@@ -43,10 +44,10 @@
 }
 @keyframes moveAround{
     0%{
-        transform:rotate(0deg) translate(100px) rotate(0deg);
+        transform:rotate(0deg) translate(90px) rotate(0deg);
     }
     100%{              
-        transform:rotate(360deg) translate(100px) rotate(360deg);
+        transform:rotate(360deg) translate(90px) rotate(360deg);
   
     }
   }
