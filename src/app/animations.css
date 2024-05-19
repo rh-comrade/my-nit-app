@@ -3,6 +3,7 @@
         top: -200px;
         background-color: rgb(211, 211, 255);
         border-radius: 48%;
+        opacity: 0.3;
     }
     50%{
         border-radius: 50%;
