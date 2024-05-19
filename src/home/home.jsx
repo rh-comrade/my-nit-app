@@ -4,7 +4,7 @@ import styles from './home.module.css'
 import Image from 'next/image'
 const Home = () => {
   return (
-    <div className={`container d-flex md ${styles.home}`}>
+    <div className={`container d-flex  flex-wrap justify-content-center align-item-center ${styles.home}`}>
       <div className={`${styles.text}`}>
         {/* <span>welcome to</span>
         <span>NIT App</span> */}
@@ -16,6 +16,7 @@ const Home = () => {
             <h3>move with me</h3>
             <h4>square</h4>
         </div>
+        
     </div>
   )
 }

@@ -22,3 +22,6 @@
     font-size: 50px;
 }
 
+.div>img{
+    transition: 1s;
+}
